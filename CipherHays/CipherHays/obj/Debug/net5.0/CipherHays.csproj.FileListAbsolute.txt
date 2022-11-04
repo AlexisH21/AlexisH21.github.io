@@ -1,0 +1,16 @@
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\bin\Debug\net5.0\CipherHays.exe
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\bin\Debug\net5.0\CipherHays.deps.json
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\bin\Debug\net5.0\CipherHays.runtimeconfig.json
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\bin\Debug\net5.0\CipherHays.runtimeconfig.dev.json
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\bin\Debug\net5.0\CipherHays.dll
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\bin\Debug\net5.0\CipherHays.pdb
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\obj\Debug\net5.0\CipherHays.csproj.AssemblyReference.cache
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\obj\Debug\net5.0\CipherHays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\obj\Debug\net5.0\CipherHays.AssemblyInfoInputs.cache
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\obj\Debug\net5.0\CipherHays.AssemblyInfo.cs
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\obj\Debug\net5.0\CipherHays.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\obj\Debug\net5.0\CipherHays.dll
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\obj\Debug\net5.0\refint\CipherHays.dll
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\obj\Debug\net5.0\CipherHays.pdb
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\obj\Debug\net5.0\CipherHays.genruntimeconfig.cache
+C:\Users\Alexis\source\repos\CipherHays\CipherHays\obj\Debug\net5.0\ref\CipherHays.dll

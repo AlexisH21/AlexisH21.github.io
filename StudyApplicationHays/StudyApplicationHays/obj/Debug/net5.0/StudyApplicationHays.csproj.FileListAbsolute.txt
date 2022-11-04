@@ -1,0 +1,16 @@
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\bin\Debug\net5.0\StudyApplicationHays.exe
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\bin\Debug\net5.0\StudyApplicationHays.deps.json
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\bin\Debug\net5.0\StudyApplicationHays.runtimeconfig.json
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\bin\Debug\net5.0\StudyApplicationHays.runtimeconfig.dev.json
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\bin\Debug\net5.0\StudyApplicationHays.dll
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\bin\Debug\net5.0\StudyApplicationHays.pdb
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\obj\Debug\net5.0\StudyApplicationHays.csproj.AssemblyReference.cache
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\obj\Debug\net5.0\StudyApplicationHays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\obj\Debug\net5.0\StudyApplicationHays.AssemblyInfoInputs.cache
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\obj\Debug\net5.0\StudyApplicationHays.AssemblyInfo.cs
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\obj\Debug\net5.0\StudyApplicationHays.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\obj\Debug\net5.0\StudyApplicationHays.dll
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\obj\Debug\net5.0\refint\StudyApplicationHays.dll
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\obj\Debug\net5.0\StudyApplicationHays.pdb
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\obj\Debug\net5.0\StudyApplicationHays.genruntimeconfig.cache
+C:\Users\Alexis\source\repos\StudyApplicationHays\StudyApplicationHays\obj\Debug\net5.0\ref\StudyApplicationHays.dll

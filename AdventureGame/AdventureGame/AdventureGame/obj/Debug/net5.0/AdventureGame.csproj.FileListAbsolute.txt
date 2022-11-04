@@ -1,0 +1,64 @@
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.AssemblyInfoInputs.cache
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.AssemblyInfo.cs
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.exe
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.deps.json
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.runtimeconfig.json
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.runtimeconfig.dev.json
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.dll
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.pdb
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.dll
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\obj\Debug\net5.0\refint\AdventureGame.dll
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.pdb
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.genruntimeconfig.cache
+C:\Users\iatp\source\repos\AdventureGame\AdventureGame\obj\Debug\net5.0\ref\AdventureGame.dll
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.exe
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.deps.json
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.runtimeconfig.json
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.runtimeconfig.dev.json
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.dll
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.pdb
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.AssemblyInfoInputs.cache
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.AssemblyInfo.cs
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.dll
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\refint\AdventureGame.dll
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.pdb
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.genruntimeconfig.cache
+C:\Users\Alexis\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\ref\AdventureGame.dll
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.exe
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.deps.json
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.runtimeconfig.json
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.runtimeconfig.dev.json
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.dll
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.pdb
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.AssemblyInfoInputs.cache
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.AssemblyInfo.cs
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.dll
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\refint\AdventureGame.dll
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.pdb
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.genruntimeconfig.cache
+C:\Users\iatp\OneDrive - Columbia College Chicago\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\ref\AdventureGame.dll
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.AssemblyInfoInputs.cache
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.AssemblyInfo.cs
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.dll
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\refint\AdventureGame.dll
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.pdb
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.exe
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.deps.json
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.runtimeconfig.json
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.runtimeconfig.dev.json
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.dll
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\bin\Debug\net5.0\AdventureGame.pdb
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\AdventureGame.genruntimeconfig.cache
+C:\Users\Alexis\OneDrive - Columbia College Chicago\Programming Work\AdventureGame\AdventureGame\AdventureGame\obj\Debug\net5.0\ref\AdventureGame.dll
