@@ -1,5 +1,4 @@
-title: Programming Portfolio
-description: By: Alexis Hays.    This Webpage is for displaying my programming skills.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
+title: Alexis Hays
+description: Programming Portfolio
+logo: image/logo address
