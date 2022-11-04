@@ -55,7 +55,8 @@ namespace CipherHays
                     int oldCharIndex = Alphabet.IndexOf(char.ToLower(messageAsArray[i]));
                     if (oldCharIndex >= 0)
                     {//why is this giving an error???
-                      out message += char.IsUpper(messageAsArray[i]) ? char.ToUpper(Alphabet[oldCharIndex]) : Substitute[oldCharIndex];
+                      message += char.IsUpper(messageAsArray[i]) ? char.ToUpper(Alphabet[oldCharIndex]) : Substitute[oldCharIndex];
+                      Console.Write(char.IsUpper(messageAsArray[i]) ? char.ToUpper(Alphabet[oldCharIndex]) : Substitute[oldCharIndex]);
                     }
                     else
                     {
